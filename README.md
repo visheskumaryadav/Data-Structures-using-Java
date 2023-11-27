@@ -9,3 +9,7 @@ I have implemented the creation and operation of data structure not the applicat
 2. Linked List:
     * Singly linked list
     * Doubly linked list
+3. Stacks
+    * Implementation using Arrays
+4. Queues
+    * Implementation using Arrays
